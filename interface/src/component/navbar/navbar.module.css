@@ -1,0 +1,15 @@
+
+.naves{
+    width: 100%;
+    background-color:#D4F1F4 ;
+}
+.Linkss{
+    color: white !important;
+   font-size: 20px;
+   justify-content: space-between;
+   margin-left: 20px;
+}
+
+.linkholder{
+    margin-left: 500px;
+}
